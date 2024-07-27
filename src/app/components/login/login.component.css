@@ -1,0 +1,15 @@
+.svg-container {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+  }
+
+.login-card{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    height: 60vh;
+    width: 25vw;
+}
